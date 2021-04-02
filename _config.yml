@@ -97,9 +97,9 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-  - page: history
-    directory: history/
-    icon: fa-book
+  # - page: history
+  #   directory: history/
+  #   icon: fa-book
   - page: about
     directory: about/
     icon: fa-user
@@ -126,13 +126,13 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 timeline:
 
   - num: 1
-    word: 2017/09/04 Start：jzdss.club
+    word: 2017/09/04 Start
 
   - num: 2
-    word: 2020/10/13 域名变更：qi-yao.xyz
+    word: 2020/10/13 域名变更
 
   - num: 3
-    word: 2021/02/05 域名变更：blinging.xyz
+    word: 2021/02/05 域名变更
 
   - num: 4
     word: 2021/02/09 升级HTTPS
